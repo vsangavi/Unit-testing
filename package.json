@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "It is a simple testing exapmles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha||true",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.2"
+  }
+}
